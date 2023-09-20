@@ -7,6 +7,6 @@ Proud graduate of the BloomTech (formerly Lambda School) Full-Stack Web program.
 - 👯 I’m looking to collaborate on anything.
 - 🤔 I’m looking for help with any advice you can give me.
 - 💬 Ask me about React, Javascript, HTML, CSS, python, Java
-- 📫 How to reach me: ... I can be reached at georgehatzigeorgio@gmail.com or georgehatzigeorgio@zohomail.com
+- 📫 How to reach me: ... I can be reached at georgehatzigeorgio@gmail.com
 - ⚡ Fun fact: ... I am a former chef so I can cook too! ;)
 
