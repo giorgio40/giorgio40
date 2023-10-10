@@ -1,4 +1,4 @@
-Proud graduate of the BloomTech (formerly Lambda School) Full-Stack Web program. Its been a long journey but the best thing I have done in my life for a change in careers. Im a full stack software engineer originally from Arlington, Virginia and have lived in Charlottesville, Virginia for the last 25 years. I have a passion to code.
+Proud graduate of the BloomTech (formerly Lambda School) Full-Stack Web program. Its been a long journey but the best thing I have done in my life for a change in careers. Im a full stack software engineer originally from Arlington, Virginia and have lived in Charlottesville, Virginia for the last 30 years.
 
 
 
