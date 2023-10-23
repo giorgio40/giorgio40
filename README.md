@@ -2,8 +2,8 @@ Proud graduate of the BloomTech (formerly Lambda School) Full-Stack Web program.
 
 
 
-- 🔭 I’m currently working on an application for the Boys and Girls Club that might be going Nationwide.
-- 🌱 I’m currently learning real work environment. For Real!
+
+
 - 👯 I’m looking to collaborate on anything.
 - 🤔 I’m looking for help with any advice you can give me.
 - 💬 Ask me about React, Javascript, HTML, CSS, python, Java
